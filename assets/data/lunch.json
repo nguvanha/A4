@@ -1,0 +1,8 @@
+{
+    "lunchMenu":
+    [
+        {"name": "Protein Bar", "price": "2.99", "calories": "170 cals"},
+        {"name": "Pizza", "price": "4.99", "calories": "500 cals"},
+        {"name": "Chocolate Milk", "price": "5.99", "calories": "300 cals"}
+    ]
+}

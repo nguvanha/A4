@@ -1,0 +1,8 @@
+{
+    "dinnerMenu":
+    [
+        {"name": "Shouyu Ramen", "price": "15.99", "calories": "1000 cals"},
+        {"name": "Takoyaki", "price": "7.99", "calories": "500 cals"},
+        {"name": "Strawberry Milk", "price": "5.99", "calories": "300 cals"}
+    ]
+}

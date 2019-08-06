@@ -1,0 +1,8 @@
+{
+    "breakfastMenu":
+    [
+        {"name": "Egg", "price": "0.99", "calories": "20 cals"},
+        {"name": "Banana and Chocolate Chips Bread", "price": "0.99", "calories": "300 cals"},
+        {"name": "Milk", "price": "5.99", "calories": "300 cals"}
+    ]
+}
